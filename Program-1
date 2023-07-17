@@ -8,7 +8,7 @@ public class Program1 {
         // Take input from the user
         Scanner sc = new Scanner(System.in);
  
-        System.out.println("Enter the values:");
+        System.out.println("Enter the value:");
  
         // Take the inputs
         a = sc.nextDouble();
